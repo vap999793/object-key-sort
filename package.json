@@ -1,6 +1,6 @@
 {
   "name": "object_key_sort",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "sort the array of objects by any key",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vap999793/object-key-sort.git"
-}
+  }
 }

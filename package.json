@@ -13,5 +13,9 @@
     "array"
   ],
   "author": "Vishal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vap999793/object-key-sort.git"
+}
 }

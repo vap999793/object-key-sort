@@ -1,6 +1,6 @@
 {
   "name": "object_key_sort",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "sort the array of objects by any key",
   "main": "index.js",
   "scripts": {
